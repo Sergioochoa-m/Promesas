@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#contenedorInfo {
+    border: 3px solid black;
+    font-size: large;
+    font-style: italic;
+}
+
+#boton {
+    border-radius: 7px;
+    font-size: large;
+    color: rgb(0, 0, 108);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
